@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Travel Today Official Website
---> [traveltoday.tk](https://traveltoday.tk "traveltoday.tk").(UNDER CONSTRUCTIONS)
+--> [traveltoday.tk](https://traveltoday.tk "traveltoday.tk"). (UNDER CONSTRUCTIONS)
 
 <!-- 
 **Here are some ideas to get you started:**
